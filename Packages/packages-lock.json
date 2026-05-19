@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.idaeldev.advancedlogger": {
+      "version": "https://github.com/idaelDev/AdvancedLogger.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.test-framework": "1.6.0"
+      },
+      "hash": "c6ef199ab64b93772331f2b8dc83cfaffad7cc49"
+    },
     "com.idaeldev.dependencyinjection": {
       "version": "https://github.com/idaelDev/DependencyInjectionPackage.git",
       "depth": 0,
@@ -8,6 +17,15 @@
         "com.unity.test-framework": "1.6.0"
       },
       "hash": "f5ed25e4166ab6263456ab84fbd8f13c637e4d54"
+    },
+    "com.idaeldev.utilities": {
+      "version": "https://github.com/idaelDev/UtilityPackage.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.test-framework": "1.6.0"
+      },
+      "hash": "a24643c25d85fbc6b0a41ed4af357a8e00ed1e5a"
     },
     "com.unity.ai.navigation": {
       "version": "2.0.9",
